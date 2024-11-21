@@ -1,0 +1,6 @@
+{
+  "default": {
+    "pro_bu_bucket": "test_bucket",
+    "pro_bu_db": "test_db"
+  }
+}

@@ -19,9 +19,9 @@
 ```json
 {
   "global": {
-    "spark-cache": "MEMORY_ONLY",
+    "sparkCache": "MEMORY_ONLY",
     "mode": "batch",
-    "cache-automatically": true
+    "cacheAutomatically": true
   },
   "queries": [
     {
@@ -59,6 +59,10 @@
 - I'll add here things that we could finish impl.
 
 ## TODO:
+- extract commons
+- extract common-tests
+- extract UDF
+- better processing time presentation
 - Better README
 - JSON parser
 - UTs - e2e for starters
